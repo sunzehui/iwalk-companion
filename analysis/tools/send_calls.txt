@@ -1,0 +1,24 @@
+0x51c6cc	SendFramePack5_plt	{'w1': '0x4', 'w2': '0x1', 'w3': '0x1', 'w4': '0x1e', 'w5': '?'}
+0x5202c4	SendFramePack5_plt	{'w1': '0x6', 'w2': '0x1', 'w3': '0x1', 'w4': '?', 'w5': '?'}
+0x520328	SendFramePack5_plt	{'w1': '0x6', 'w2': '0x2', 'w3': '0x3', 'w4': '?', 'w5': '?'}
+0x5203d4	SendFramePack5_plt	{'w1': '0xa', 'w2': '0x1', 'w3': '0x1', 'w4': '?', 'w5': '?'}
+0x520444	SendFramePack5_plt	{'w1': '0xa', 'w2': '0x2', 'w3': '0x5', 'w4': '?', 'w5': '?'}
+0x5204a0	SendFramePack5_plt	{'w1': '0xc', 'w2': '0x1', 'w3': '0x1', 'w4': '?', 'w5': '?'}
+0x5204fc	SendFramePack5_plt	{'w1': '0x22', 'w2': '0x1', 'w3': '0x1', 'w4': '?', 'w5': '?'}
+0x520588	SendFramePack5_plt	{'w1': '0xb', 'w2': '0x1', 'w3': '0x1', 'w4': '?', 'w5': '?'}
+0x5205f0	SendFramePack5_plt	{'w1': '0xa', 'w2': '0x2', 'w3': '0x3', 'w4': '?', 'w5': '?'}
+0x520654	SendFramePack5_plt	{'w1': '0x20', 'w2': '0x2', 'w3': '0x3', 'w4': '?', 'w5': '?'}
+0x5211e4	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x7', 'w4': '?', 'w5': '?'}
+0x52132c	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x7', 'w4': '?', 'w5': '?'}
+0x5213f4	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x7', 'w4': '?', 'w5': '?'}
+0x521dec	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x9', 'w4': '?', 'w5': '?'}
+0x521e18	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x9', 'w4': '?', 'w5': '?'}
+0x521e34	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x9', 'w4': '?', 'w5': '?'}
+0x521f64	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x9', 'w4': '?', 'w5': '?'}
+0x521f90	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x9', 'w4': '?', 'w5': '?'}
+0x521fac	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x9', 'w4': '?', 'w5': '?'}
+0x521fc8	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x9', 'w4': '?', 'w5': '?'}
+0x522040	SendFramePack5_plt	{'w1': '?', 'w2': '0x400', 'w3': '0xa', 'w4': '?', 'w5': '?'}
+0x5220c8	SendFramePack5_plt	{'w1': '?', 'w2': '0x4', 'w3': '0x9', 'w4': '?', 'w5': '?'}
+0x5225e4	SendFramePack5_plt	{'w1': '0xa', 'w2': '0x2', 'w3': '0x3', 'w4': '0x70', 'w5': '?'}
+total: 23 call sites

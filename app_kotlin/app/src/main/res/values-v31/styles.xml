@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 12+ 会自己画启动窗口，这里保持同一背景与滑板标记，
+         让系统 splash 与 Compose 首帧平滑衔接。 -->
+    <style name="Theme.IwApp" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowSplashScreenBackground">@color/iw_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/iw_background</item>
+        <item name="android:windowBackground">@drawable/launch_background</item>
+        <item name="android:colorBackground">@color/iw_background</item>
+        <item name="android:statusBarColor">@color/iw_background</item>
+        <item name="android:navigationBarColor">@color/iw_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

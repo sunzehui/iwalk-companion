@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iWalk 伴侣</string>
+
+    <!-- 底部三页签 -->
+    <string name="tab_device">设备</string>
+    <string name="tab_analysis">分析</string>
+    <string name="tab_settings">设置</string>
+
+    <!-- 三个页签正文均已实装，不再保留占位字符串：
+         设备页 = 工单 02 的演示会话正文（无会话时「连接你的平衡车」）；
+         分析页 = 工单 05 的两段式实时分析（HomeShellTest 以「证据时间线」标记）；
+         设置页 = 工单 08 的静态二级页入口（「车辆数据与配置」）。 -->
+</resources>

@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+
+# 构建产物与 IDE
+app_kotlin/.gradle/
+app_kotlin/build/
+app_kotlin/*/build/
+app_kotlin/local.properties
+*.iml
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dart
+protocol_dart/.dart_tool/
+
+# 原始采集证据（783M，不入库；保留在本地 captures/）
+captures/
+
+# 本地静态分析中间产物（不入库）
+analysis/_analysis_out/
+
+# 早期 Flutter 版 App（含构建产物，已被 app_kotlin 取代）
+app_v2/
+
+# 未知/私有目录
+iwalk_EpmL3/
+.qoder/
+.scratch/
+.workbuddy/
+
+# 根目录原始调试日志（体积大且为一次性中间产物）
+logcat_official_vs_ours_2026-10-21.txt
+quick_043705.txt
+quick_fixed.txt
+
+# APK 不入 git，通过 GitHub Release 分发
+downloads/*.apk
+
+# 其他
+*.log
+
+# 与仓库无关的本机截图
+screen_install.png

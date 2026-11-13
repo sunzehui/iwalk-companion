@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iWalk 伴侣恒为深色：原生窗口背景与 Compose 主题使用同一近黑色，
+         启动时不出现白屏或纯黑方块。 -->
+    <style name="Theme.IwApp" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@drawable/launch_background</item>
+        <item name="android:colorBackground">@color/iw_background</item>
+        <item name="android:statusBarColor">@color/iw_background</item>
+        <item name="android:navigationBarColor">@color/iw_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

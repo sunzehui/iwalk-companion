@@ -1,0 +1,10 @@
+name: ibwalk_protocol
+description: Read-only reference codec for the iWalk (Lebid) scooter BLE protocol.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.4.0
+
+dev_dependencies:
+  test: ^1.25.0
